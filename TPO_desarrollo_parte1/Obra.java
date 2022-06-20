@@ -1,6 +1,6 @@
 package TPO_desarrollo_parte1;
 
-//Alumno : Osorio Mariano - FAI 2982
+//Alumno : Osorio Mariano
 
 public class Obra {
     
