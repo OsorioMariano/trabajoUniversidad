@@ -1,6 +1,6 @@
 package TPO_desarrollo_parte1;
 
-// Alumno: Osorio Mariano - FAI2982
+// Alumno: Osorio Mariano
 
 import Utiles.TecladoIn;
 
